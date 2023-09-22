@@ -1,5 +1,7 @@
 # Wordpress Core CSS
 
+Used for Wordpress generated classes within the WYSIWYG editor - [https://wordpress.org/documentation/article/css/](https://wordpress.org/documentation/article/css/#wordpress-generated-classes)
+
 `npm` package for wordpress core styles.
 
 This will need to be updated if wordpress core changes.
