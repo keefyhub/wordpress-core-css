@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DesignImage/wordpress-core-css.git"
+    "url": "git+https://github.com/keefyhub/wordpress-core-css.git"
   },
   "author": "Keith Light",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/DesignImage/wordpress-core-css/issues"
+    "url": "https://github.com/keefyhub/wordpress-core-css/issues"
   },
-  "homepage": "https://github.com/DesignImage/wordpress-core-css#readme"
+  "homepage": "https://github.com/keefyhub/wordpress-core-css#readme"
 }
